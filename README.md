@@ -15,5 +15,8 @@ Run this file from command line.</br>
 For example:</br>
 python MsDBP_predict.py</br>
 
+Contact us:</br>
+dxqllp@163.com
+
 Reference:</br>
 Xiuquan Du, Yanyu Diao, Heng Liu, Shuo Li. MsDBP: Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information with Deep Neural Network. Submitted.
