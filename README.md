@@ -12,7 +12,7 @@ keras 2.0.8
 Usage:
 Run this file from command line.
 For example:
->python MsDBP_predict.py
+python MsDBP_predict.py
 
 Reference:
 Xiuquan Du, Yanyu Diao, Heng Liu, Shuo Li. MsDBP: Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information with Deep Neural Network. Submitted.
