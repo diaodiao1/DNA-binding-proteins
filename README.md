@@ -13,7 +13,16 @@ keras 2.0.8</br>
 Usage:</br>
 Run this file from command line.</br>
 For example:</br>
-python MsDBP_predict_PDB2272.py</br>
+python MsDBP_predict.py -dataset_P=PDB2272_P -dataset_N=PDB2272_N</br>
+python MsDBP_predict.py -dataset_P=DBP2858</br>
+python MsDBP_predict.py -dataset_N=NDBP3723</br>
+where PDB2272_P, PDB2272_N, DBP2858, NDBP3723 is the dataset used in our study.
+
+python MsDBP_predict.py -dataset_P=DBP_fasta_file</br>
+it can be used to find out new DBPs.
+
+python MsDBP_predict.py -dataset_N=NDBP_fasta_file</br>
+it can be used to FPR of the predictor.
 
 Contact us:</br>
 dxqllp@163.com
