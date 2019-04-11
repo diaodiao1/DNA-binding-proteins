@@ -13,7 +13,7 @@ keras 2.0.8</br>
 Usage:</br>
 Run this file from command line.</br>
 For example:</br>
-python MsDBP_predict.py</br>
+python MsDBP_predict_PDB2272.py</br>
 
 Contact us:</br>
 dxqllp@163.com
