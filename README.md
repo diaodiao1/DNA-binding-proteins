@@ -40,8 +40,4 @@ MERLPYEIVSTIFRKAILHYVLIRGTTYPQSLAENLNISKGLASSFLRLCSALNIMKRERAGHKVLYSFTSKGLAILKRL
 
 
 Contact us:</br>
-dxqllp@163.com</br></br>
-
-
-Reference:</br>
-Xiuquan Du, Yanyu Diao, Heng Liu, Shuo Li. MsDBP: Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information with Deep Neural Network. Submitted.
+dxqllp@163.com</br>
