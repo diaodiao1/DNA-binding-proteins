@@ -1,7 +1,7 @@
 # MsDBP
 ##Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information with Deep Neural Network
 
-we have reported a novel predictor MsDBP, a DNA-binding protein prediction method that combines multi-scale sequence features into a deep neural network. For a given protein, we first divide the entire protein sequence into 4 subsequences to extract multi-scale features, and then we regard the feature vector as the input of the network and apply a branch of dense layers to automatically learn diverse hierarchical features. Finally, we use a neural network with two hidden layers to connect their outputs for DBPs prediction.
+we have reported a novel predictor MsDBP, a DNA-binding protein prediction method that combines multi-scale sequence features into a deep neural network. For a given protein, we first divide the entire protein sequence into 4 subsequences to extract multi-scale features, and then we regard the feature vector as the input of the network and apply a branch of dense layers to automatically learn diverse hierarchical features. Finally, we use a neural network with two hidden layers to connect their outputs for DBPs prediction.</br></br>
 
 
 Dependency:</br>
@@ -28,11 +28,11 @@ python MsDBP_predict.py -dataset_P=DBP_fasta_file</br>
 it can be used to find out new DBPs.
 
 python MsDBP_predict.py -dataset_N=NDBP_fasta_file</br>
-it can be used to FPR of the predictor.
+it can be used to FPR of the predictor.</br></br>
 
 
 Contact us:</br>
-dxqllp@163.com
+dxqllp@163.com</br></br>
 
 
 Reference:</br>
