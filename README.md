@@ -1,5 +1,5 @@
 # MsDBP
-Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information via Chou`s 5-steps Rule
+Exploring DNA-binding Proteins by Integrating Multi-scale Sequence Information via Chou's 5-steps Rule
 ------
 
 Dependency:</br>
